@@ -8,4 +8,4 @@ make
 ```
 
 # Tests
-![alt text](.img/test)
+![alt text](.imgs/test)
