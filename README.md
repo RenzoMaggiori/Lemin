@@ -51,5 +51,7 @@ P2-1 P3-3
 P3-1
 ```
 
-## Tests
-![alt text](.imgs/test)
+# Tests
+<div align="center">
+  <img src=".imgs/test" />
+</div>
